@@ -11,5 +11,5 @@ Trained model: https://drive.google.com/drive/u/1/folders/1pie1eCvGxDHUD1qgOesjo
 * Pygame
 
 ## Usage
-* training the model: python model.py
-* testing the model: python "drowsiness detection.py"
+* Training the model: python model.py
+* Testing the model: python "drowsiness detection.py"
