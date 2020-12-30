@@ -1,4 +1,4 @@
-# DriversDrowsinessDetection
+# Real-Time Driver’s Drowsiness Detection using Machine Learning
 
 Dataset: https://drive.google.com/drive/u/1/folders/172W0TMvutKDQRoSnBwIX6UXVenGcFqqn
 
